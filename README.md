@@ -21,10 +21,10 @@ http://localhost:8000
 
 **Características:**
 - ⚡ **Tempos de resposta abaixo de 100 ms** com pesquisa SQLite FTS5
-- 🔍 ** Pesquisa instantânea de texto completo** com filtragem avançada
-- 📱 ** Design responsivo** funciona perfeitamente em dispositivos móveis
+- 🔍 **Pesquisa instantânea de texto completo** com filtragem avançada
+- 📱 **Design responsivo** funciona perfeitamente em dispositivos móveis
 - 🌙 **Temas claros/escuros** com detecção de preferências do sistema
-- 📊 ** Estatísticas ao vivo**  365 integrações exclusivas, 29.445 total de nodes
+- 📊 **Estatísticas ao vivo**  365 integrações exclusivas, 29.445 total de nodes
 - 🎯 **Categorização inteligente** por tipo de gatilho e complexidade
 - 🎯 **Categorização de casos de uso** por nome de serviço mapeado para categorias
 - 📄 **Visualização JSON sob demanda** e download
