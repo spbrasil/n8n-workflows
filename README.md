@@ -1,4 +1,4 @@
-# ⚡ N8N Workflow Collection & Documentation
+# ⚡ N8N Workflow Coleção & Documentação
 
 Uma coleção profissionalmente organizada de **2,053 n8n workflows** com um sistema de documentação extremamente rápido que fornece recursos instantâneos de pesquisa, análise e navegação.
 
