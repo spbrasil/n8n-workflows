@@ -69,7 +69,7 @@ O sistema inclui um recurso de categorização automatizado que organiza os work
    python create_categories.py   ```
 
 2. **Reconhecimento de nome de serviço**
-   TO script analisa cada nome de arquivo JSON do workflow para identificar nomes de serviço reconhecidos (por exemplo, "Twilio", "Slack", "Gmail" etc.)
+   O script analisa cada nome de arquivo JSON do workflow para identificar nomes de serviço reconhecidos (por exemplo, "Twilio", "Slack", "Gmail" etc.)
 
 3. ** Mapeamento de Categoria**
    Cada nome de serviço reconhecido é correspondido à sua categoria correspondente usando as definições em  `context/def_categories.json`. Por exemplo:
